@@ -30,5 +30,5 @@ function myFunction2() {
 }
 function myFunction3() {
   document.getElementById("pop1").style.display = "none";
-  window.open("https://vuabienca99.luubet.vip?ch=14316");   //
+  window.open("https://vuabienca99.luubet.vip/register.html");   //
 }
